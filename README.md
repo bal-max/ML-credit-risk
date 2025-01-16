@@ -8,6 +8,7 @@
 ## Структура проекта
 
 - **`credit_risk.ipynb`**: Основной Jupyter Notebook с кодом, реализующим анализ данных, построение и оценку моделей.
+- **`credit_risk_dataset.csv`**: Данные о клиентах.  
 - **`README.md`**: Документация проекта.
 - **`requirements.txt`**: Зависимости для запуска проекта.
 
@@ -25,13 +26,6 @@
    ```bash
    pip install -r requirements.txt
    ```
-
-### Запуск Jupyter Notebook
-Для запуска Jupyter Notebook выполните следующую команду:
-```bash
-jupyter notebook credit_risk.ipynb
-```
-
 ---
 
 ## Основные шаги
